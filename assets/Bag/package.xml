@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="5krhxnal" jpegQuality="80" compressPNG="true">
+  <resources>
+    <component id="lwcn0" name="Bag.xml" path="/" exported="true"/>
+    <image id="suru1" name="border_hero_pinzhi_bai.png" path="/Image/"/>
+    <image id="suru2" name="border_hero_pinzhi_cheng.png" path="/Image/"/>
+    <image id="suru3" name="border_hero_pinzhi_huang.png" path="/Image/"/>
+    <image id="suru4" name="border_hero_pinzhi_lan.png" path="/Image/"/>
+    <image id="suru5" name="border_hero_pinzhi_lv.png" path="/Image/"/>
+    <image id="suru6" name="border_hero_pinzhi_wu.png" path="/Image/"/>
+    <image id="suru7" name="border_hero_pinzhi_zi.png" path="/Image/"/>
+    <image id="suru8" name="border_hs_ty.png" path="/Image/"/>
+    <image id="suru9" name="border_tips_bg_ty.png" path="/Image/" scale="9grid" scale9grid="161,99,322,198"/>
+    <image id="surua" name="border_tyips_bg_ty.png" path="/Image/"/>
+    <image id="surub" name="border_yd_ty.png" path="/Image/"/>
+    <image id="suruc" name="btn_d_huang_ty.png" path="/Image/"/>
+    <image id="surud" name="btn_d_lan_ty.png" path="/Image/"/>
+    <image id="surue" name="btn_jia_ty.png" path="/Image/"/>
+    <image id="suruf" name="btn_jian_ty.png" path="/Image/"/>
+    <image id="surug" name="btn_ty.png" path="/Image/"/>
+    <component id="suruh" name="Btn_Close.xml" path="/" exported="true"/>
+    <component id="surui" name="Comp_Item.xml" path="/" exported="true"/>
+    <component id="suruj" name="ItemUse.xml" path="/" exported="true"/>
+    <component id="suruk" name="Comp_ItemInfo.xml" path="/" exported="true"/>
+    <component id="surul" name="Btn_Yellow.xml" path="/" exported="true"/>
+    <component id="surun" name="Btn_Blue.xml" path="/" exported="true"/>
+  </resources>
+  <publish name="Bag" path="E:\MyUnityProjects\Projects565f1\DiabloLike\Assets\Resources\FairyGUI\Bag" genCode="true"/>
+</packageDescription>

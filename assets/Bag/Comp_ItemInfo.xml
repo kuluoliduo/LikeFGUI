@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="445,630">
+  <displayList>
+    <image id="n0_suru" name="n0" src="suru9" fileName="Image/border_tips_bg_ty.png" xy="8,6" size="437,624"/>
+    <component id="n1_suru" name="comp_item" src="surui" fileName="Comp_Item.xml" xy="77,84"/>
+    <text id="n2_suru" name="txt_name" xy="177,87" size="252,31" fontSize="24" color="#ffffff" autoSize="shrink" text="爱的魔力转圈圈"/>
+    <text id="n3_suru" name="txt_property" xy="48,180" size="366,419" fontSize="24" color="#ffffff" ubb="true" autoSize="none" text="其味无穷二 +3332&#xA;其味无穷二 +3332&#xA;其味无穷二 +3332&#xA;其味无穷二 +3332&#xA;其味无穷二 +3332"/>
+    <component id="n4_suru" name="btn_cancel" src="surun" fileName="Btn_Blue.xml" xy="431,222">
+      <Button title="取消"/>
+    </component>
+    <component id="n5_suru" name="btn_OK" src="surul" fileName="Btn_Yellow.xml" xy="431,129">
+      <Button title="替换"/>
+    </component>
+  </displayList>
+</component>

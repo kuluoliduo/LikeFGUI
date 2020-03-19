@@ -1,0 +1,16 @@
+{
+	"binaryFormat":true,
+	"codeGeneration":{
+		"classNamePrefix":"UI_",
+		"codePath":"E:\\MyUnityProjects\\Projects565f1\\DiabloLike\\Assets\\Script\\FairyGUIScript",
+		"codeType":"",
+		"getMemberByName":false,
+		"ignoreNoname":false,
+		"memberNamePrefix":"m_",
+		"packageName":""
+	},
+	"compressDesc":true,
+	"fileExtension":"",
+	"packageCount":2,
+	"path":"E:\\MyUnityProjects\\Projects565f1\\DiabloLike\\Assets\\Resources\\FairyGUI"
+}

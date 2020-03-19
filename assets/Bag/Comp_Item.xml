@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="86,86">
+  <displayList>
+    <loader id="n0_suru" name="load_quality" xy="0,0" size="86,86" url="ui://5krhxnalsuru1" fill="scale"/>
+    <loader id="n1_suru" name="load_item" xy="0,0" size="86,86" url="ui://5krhxnalsuru1" fill="scale"/>
+  </displayList>
+</component>

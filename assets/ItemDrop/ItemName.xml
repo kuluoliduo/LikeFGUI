@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="80,30">
+  <displayList>
+    <graph id="n0_eocd" name="gra_bg" xy="-9,0" size="135,30" type="rect" lineColor="#ff333333" fillColor="#ff333333">
+      <relation target="n1_eocd" sidePair="width-width,height-height"/>
+    </graph>
+    <text id="n1_eocd" name="txt_name" xy="0,0" size="115,26" font="SimSun" fontSize="22" align="center" vAlign="middle" text="namewnanma">
+      <relation target="" sidePair="width-width,height-height"/>
+    </text>
+  </displayList>
+</component>

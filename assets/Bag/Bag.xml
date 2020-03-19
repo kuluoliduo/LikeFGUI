@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1334,750">
+  <displayList>
+    <graph id="n17_suru" name="gra_bg" xy="0,0" size="1334,750" alpha="0.7" type="rect" fillColor="#ff000000"/>
+    <image id="n0_suru" name="n0" src="suru9" fileName="Image/border_tips_bg_ty.png" xy="652,36" size="630,673" group="n16_suru"/>
+    <list id="n1_suru" name="list_item" xy="706,133" size="533,525" group="n16_suru" layout="flow_hz" overflow="scroll" margin="10,0,10,0" defaultItem="ui://5krhxnalsurui" autoClearItems="true">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <component id="n2_suru" name="btn_close" src="suruh" fileName="Btn_Close.xml" xy="1210,31" group="n16_suru"/>
+    <image id="n3_suru" name="n3" src="suru9" fileName="Image/border_tips_bg_ty.png" xy="53,32" size="437,673" group="n16_suru"/>
+    <component id="n6_suru" name="head" src="surui" fileName="Comp_Item.xml" xy="222,123" group="n16_suru"/>
+    <component id="n7_suru" name="neck" src="surui" fileName="Comp_Item.xml" xy="344,154" group="n16_suru"/>
+    <component id="n8_suru" name="chest" src="surui" fileName="Comp_Item.xml" xy="222,216" group="n16_suru"/>
+    <component id="n9_suru" name="yao" src="surui" fileName="Comp_Item.xml" xy="222,310" group="n16_suru"/>
+    <component id="n10_suru" name="leg" src="surui" fileName="Comp_Item.xml" xy="222,404" group="n16_suru"/>
+    <component id="n11_suru" name="shoe" src="surui" fileName="Comp_Item.xml" xy="222,498" group="n16_suru"/>
+    <component id="n13_suru" name="weapon" src="surui" fileName="Comp_Item.xml" xy="89,240" group="n16_suru"/>
+    <component id="n14_suru" name="ring_1" src="surui" fileName="Comp_Item.xml" xy="91,391" group="n16_suru"/>
+    <component id="n15_suru" name="ring_2" src="surui" fileName="Comp_Item.xml" xy="362,396" group="n16_suru"/>
+    <group id="n16_suru" name="gro_center" xy="53,31" size="1230,679" advanced="true">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </group>
+  </displayList>
+</component>
