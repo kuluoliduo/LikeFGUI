@@ -3,5 +3,6 @@
   <displayList>
     <loader id="n0_suru" name="load_quality" xy="0,0" size="86,86" url="ui://5krhxnalsuru1" fill="scale"/>
     <loader id="n1_suru" name="load_item" xy="0,0" size="86,86" url="ui://5krhxnalsuru1" fill="scale"/>
+    <text id="n2_pohn" name="txt_name" xy="-1,54" size="85,27" fontSize="20" color="#ffffff" align="center" vAlign="middle" autoSize="shrink" strokeColor="#000000" text="物品名字"/>
   </displayList>
 </component>
