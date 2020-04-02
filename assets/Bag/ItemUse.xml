@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <component size="1334,750">
   <displayList>
-    <component id="n15_suru" name="comp_1" src="suruk" fileName="Comp_ItemInfo.xml" xy="727,57"/>
+    <component id="n15_suru" name="comp_1" src="suruk" fileName="Comp_ItemInfo.xml" xy="727,65">
+      <relation target="" sidePair="right-right,middle-middle"/>
+    </component>
+    <component id="n16_ohpw" name="comp_2" src="suruk" fileName="Comp_ItemInfo.xml" xy="102,65">
+      <relation target="" sidePair="left-left,middle-middle"/>
+    </component>
   </displayList>
 </component>
