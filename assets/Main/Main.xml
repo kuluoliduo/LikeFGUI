@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1334,750" opaque="false">
+  <displayList>
+    <component id="n0_hsc6" name="bar_exp" src="hsc61" fileName="Bar_Exp.xml" xy="261,733" size="835,20">
+      <relation target="" sidePair="bottom-bottom,center-center"/>
+      <ProgressBar value="50" max="100"/>
+    </component>
+    <component id="n1_hsc6" name="bar_blood" src="hsc62" fileName="Bar_Blood.xml" xy="259,755" size="137,79" skew="90,-90">
+      <ProgressBar value="50" max="100"/>
+    </component>
+    <component id="n2_hsc6" name="bar_blue" src="hsc63" fileName="Bar_Blue.xml" xy="1176,754" size="137,79" skew="90,-90">
+      <ProgressBar value="50" max="100"/>
+    </component>
+    <component id="n4_hsc6" name="n4" src="hsc66" fileName="Button1.xml" xy="275,620">
+      <Button title="1"/>
+    </component>
+  </displayList>
+</component>
