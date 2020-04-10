@@ -1,18 +1,99 @@
 <?xml version="1.0" encoding="utf-8"?>
 <component size="1334,750" opaque="false">
   <displayList>
-    <component id="n0_hsc6" name="bar_exp" src="hsc61" fileName="Bar_Exp.xml" xy="261,733" size="835,20">
-      <relation target="" sidePair="bottom-bottom,center-center"/>
+    <component id="n0_hsc6" name="bar_exp" src="hsc61" fileName="Bar_Exp.xml" xy="261,733" size="835,20" group="n14_hsc6">
       <ProgressBar value="50" max="100"/>
     </component>
-    <component id="n1_hsc6" name="bar_blood" src="hsc62" fileName="Bar_Blood.xml" xy="259,755" size="137,79" skew="90,-90">
+    <component id="n1_hsc6" name="bar_blood" src="hsc62" fileName="Bar_Blood.xml" xy="259,755" size="137,79" group="n14_hsc6" skew="90,-90">
       <ProgressBar value="50" max="100"/>
     </component>
-    <component id="n2_hsc6" name="bar_blue" src="hsc63" fileName="Bar_Blue.xml" xy="1176,754" size="137,79" skew="90,-90">
+    <component id="n2_hsc6" name="bar_blue" src="hsc63" fileName="Bar_Blue.xml" xy="1176,754" size="137,79" group="n14_hsc6" skew="90,-90">
       <ProgressBar value="50" max="100"/>
     </component>
-    <component id="n4_hsc6" name="n4" src="hsc66" fileName="Button1.xml" xy="275,620">
+    <component id="n4_hsc6" name="btn1" src="hsc66" fileName="Button1.xml" xy="278,611" group="n14_hsc6">
       <Button title="1"/>
     </component>
+    <component id="n6_hsc6" name="btn2" src="hsc67" fileName="Button1.xml" xy="388,611" group="n14_hsc6">
+      <Button title="2"/>
+    </component>
+    <component id="n7_hsc6" name="btn3" src="hsc67" fileName="Button1.xml" xy="496,612" group="n14_hsc6">
+      <Button title="3"/>
+    </component>
+    <component id="n8_hsc6" name="btn4" src="hsc67" fileName="Button1.xml" xy="599,612" group="n14_hsc6">
+      <Button title="4"/>
+    </component>
+    <component id="n9_hsc6" name="btnLeft" src="hsc67" fileName="Button1.xml" xy="775,609" group="n14_hsc6">
+      <Button title="left"/>
+    </component>
+    <component id="n10_hsc6" name="btnRight" src="hsc67" fileName="Button1.xml" xy="888,610" group="n14_hsc6">
+      <Button title="right"/>
+    </component>
+    <component id="n11_hsc6" name="btnWeapon" src="hsc67" fileName="Button1.xml" xy="999,612" group="n14_hsc6">
+      <Button title="weapon"/>
+    </component>
+    <list id="n12_hsc6" name="listSkill" xy="281,324" size="266,268" group="n14_hsc6" hideByEditor="true" layout="flow_vt" defaultItem="ui://3lyppwh6hsc68">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <list id="n13_hsc6" name="listWeapon" xy="1002,330" size="266,268" group="n14_hsc6" hideByEditor="true" layout="flow_vt" overflow="scroll" scroll="horizontal" defaultItem="ui://3lyppwh6hsc68">
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <group id="n14_hsc6" name="group_down" xy="259,324" size="1054,510" advanced="true" collapsed="true">
+      <relation target="" sidePair="center-center,bottom-bottom"/>
+    </group>
+    <graph id="n17_hsc6" name="graph_bg" xy="108,166" size="262,371" group="n22_hsc6" type="rect" fillColor="#ff666666"/>
+    <component id="n18_hsc6" name="btnLv1" src="hsc61" fileName="Btn_Blue.xml" pkg="3p5wu2qn" xy="163,261" group="n22_hsc6">
+      <Button title="small level"/>
+    </component>
+    <component id="n19_hsc6" name="btnLv2" src="hsc61" fileName="Btn_Blue.xml" pkg="3p5wu2qn" xy="163,335" group="n22_hsc6">
+      <Button title="large level"/>
+    </component>
+    <component id="n20_hsc6" name="btnLv3" src="hsc61" fileName="Btn_Blue.xml" pkg="3p5wu2qn" xy="163,409" group="n22_hsc6">
+      <Button title="door test"/>
+    </component>
+    <text id="n21_hsc6" name="txtLv" xy="176,198" size="124,31" group="n22_hsc6" fontSize="24" color="#ffffff" strokeColor="#000000" text="select level"/>
+    <group id="n22_hsc6" name="group_lv" xy="108,166" size="262,372" collapsed="true"/>
+    <component id="n15_hsc6" name="barEnemy" src="hsc62" fileName="Bar_Blood.xml" xy="540,7" group="n23_hsc6">
+      <ProgressBar value="50" max="100"/>
+    </component>
+    <text id="n16_hsc6" name="txtEnemyName" xy="538,48" pivot="0.5,0.5" size="280,31" group="n23_hsc6" fontSize="24" color="#ffffff" strokeColor="#000000" text="11111111111111111111"/>
+    <group id="n23_hsc6" name="group_top" xy="538,7" size="286,72" advanced="true" collapsed="true">
+      <relation target="" sidePair="center-center,top-top"/>
+    </group>
+    <graph id="n24_hsc6" name="graph_bgDied" xy="483,231" size="262,188" group="n29_hsc6" type="rect" fillColor="#ff666666"/>
+    <component id="n25_hsc6" name="btnRespawn" src="hsc61" fileName="Btn_Blue.xml" pkg="3p5wu2qn" xy="538,326" group="n29_hsc6">
+      <Button title="Respawn"/>
+    </component>
+    <text id="n28_hsc6" name="txtDied" xy="561,263" pivot="0.5,0.5" size="99,31" group="n29_hsc6" fontSize="24" color="#ffffff" strokeColor="#000000" text="You died"/>
+    <group id="n29_hsc6" name="group_die" xy="483,231" size="262,188" collapsed="true"/>
   </displayList>
 </component>

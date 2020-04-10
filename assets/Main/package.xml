@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <packageDescription id="3lyppwh6" jpegQuality="80" compressPNG="true">
   <resources>
-    <component id="hsc60" name="Main.xml" path="/"/>
-    <component id="hsc61" name="Bar_Exp.xml" path="/"/>
-    <component id="hsc62" name="Bar_Blood.xml" path="/"/>
-    <component id="hsc63" name="Bar_Blue.xml" path="/"/>
-    <component id="hsc64" name="MianBtnItem.xml" path="/" exported="true"/>
-    <image id="hsc65" name="border_hero_pinzhi_bai.png" path="/Image/"/>
-    <component id="hsc67" name="Button1.xml" path="/"/>
+    <component id="hsc60" name="Main.xml" path="/" exported="true"/>
+    <component id="hsc61" name="Bar_Exp.xml" path="/" exported="true"/>
+    <component id="hsc62" name="Bar_Blood.xml" path="/" exported="true"/>
+    <component id="hsc63" name="Bar_Blue.xml" path="/" exported="true"/>
+    <image id="hsc65" name="border_hero_pinzhi_bai.png" path="/Image/" exported="true"/>
+    <component id="hsc67" name="Btn_Main.xml" path="/" exported="true"/>
+    <component id="hsc68" name="Btn_List.xml" path="/" exported="true"/>
   </resources>
-  <publish name=""/>
+  <publish name="Main" path="E:\MyUnityProjects\Projects565f1\DiabloLike\Assets\Resources\FairyGUI\Main" genCode="true"/>
 </packageDescription>
