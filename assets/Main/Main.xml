@@ -1,37 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <component size="1334,750" opaque="false">
   <displayList>
-    <component id="n0_hsc6" name="bar_exp" src="hsc61" fileName="Bar_Exp.xml" xy="261,733" size="835,20" group="n14_hsc6">
+    <component id="n0_hsc6" name="bar_exp" src="hsc61" fileName="Bar_Exp.xml" xy="257,726" size="835,20" group="n14_hsc6">
       <ProgressBar value="50" max="100"/>
     </component>
-    <component id="n1_hsc6" name="bar_blood" src="hsc62" fileName="Bar_Blood.xml" xy="259,755" size="137,79" group="n14_hsc6" skew="90,-90">
-      <ProgressBar value="50" max="100"/>
+    <component id="n1_hsc6" name="bar_blood" src="hsc69" fileName="Bar_Blood_V.xml" xy="202,745" size="56,151" group="n14_hsc6" scale="1,-1">
+      <ProgressBar value="100" max="100"/>
     </component>
-    <component id="n2_hsc6" name="bar_blue" src="hsc63" fileName="Bar_Blue.xml" xy="1176,754" size="137,79" group="n14_hsc6" skew="90,-90">
-      <ProgressBar value="50" max="100"/>
+    <component id="n2_hsc6" name="bar_blue" src="hsc6a" fileName="Bar_Blue_V.xml" xy="1105,745" size="56,151" group="n14_hsc6" scale="1,-1">
+      <ProgressBar value="100" max="100"/>
     </component>
-    <component id="n4_hsc6" name="btn1" src="hsc66" fileName="Button1.xml" xy="278,611" group="n14_hsc6">
+    <component id="n4_hsc6" name="btn1" src="hsc67" fileName="Btn_Main.xml" xy="274,604" group="n14_hsc6">
       <Button title="1"/>
     </component>
-    <component id="n6_hsc6" name="btn2" src="hsc67" fileName="Button1.xml" xy="388,611" group="n14_hsc6">
+    <component id="n6_hsc6" name="btn2" src="hsc67" fileName="Btn_Main.xml" xy="384,604" group="n14_hsc6">
       <Button title="2"/>
     </component>
-    <component id="n7_hsc6" name="btn3" src="hsc67" fileName="Button1.xml" xy="496,612" group="n14_hsc6">
+    <component id="n7_hsc6" name="btn3" src="hsc67" fileName="Btn_Main.xml" xy="492,605" group="n14_hsc6">
       <Button title="3"/>
     </component>
-    <component id="n8_hsc6" name="btn4" src="hsc67" fileName="Button1.xml" xy="599,612" group="n14_hsc6">
+    <component id="n8_hsc6" name="btn4" src="hsc67" fileName="Btn_Main.xml" xy="595,605" group="n14_hsc6">
       <Button title="4"/>
     </component>
-    <component id="n9_hsc6" name="btnLeft" src="hsc67" fileName="Button1.xml" xy="775,609" group="n14_hsc6">
+    <component id="n9_hsc6" name="btnLeft" src="hsc67" fileName="Btn_Main.xml" xy="771,602" group="n14_hsc6">
       <Button title="left"/>
     </component>
-    <component id="n10_hsc6" name="btnRight" src="hsc67" fileName="Button1.xml" xy="888,610" group="n14_hsc6">
+    <component id="n10_hsc6" name="btnRight" src="hsc67" fileName="Btn_Main.xml" xy="884,603" group="n14_hsc6">
       <Button title="right"/>
     </component>
-    <component id="n11_hsc6" name="btnWeapon" src="hsc67" fileName="Button1.xml" xy="999,612" group="n14_hsc6">
+    <component id="n11_hsc6" name="btnWeapon" src="hsc67" fileName="Btn_Main.xml" xy="995,605" group="n14_hsc6">
       <Button title="weapon"/>
     </component>
-    <list id="n12_hsc6" name="listSkill" xy="281,324" size="266,268" group="n14_hsc6" hideByEditor="true" layout="flow_vt" defaultItem="ui://3lyppwh6hsc68">
+    <list id="n12_hsc6" name="listSkill" xy="277,317" size="266,268" group="n14_hsc6" hideByEditor="true" layout="flow_vt" defaultItem="ui://3lyppwh6hsc68">
       <item/>
       <item/>
       <item/>
@@ -49,7 +49,7 @@
       <item/>
       <item/>
     </list>
-    <list id="n13_hsc6" name="listWeapon" xy="1002,330" size="266,268" group="n14_hsc6" hideByEditor="true" layout="flow_vt" overflow="scroll" scroll="horizontal" defaultItem="ui://3lyppwh6hsc68">
+    <list id="n13_hsc6" name="listWeapon" xy="998,323" size="266,268" group="n14_hsc6" hideByEditor="true" layout="flow_vt" overflow="scroll" scroll="horizontal" defaultItem="ui://3lyppwh6hsc68">
       <item/>
       <item/>
       <item/>
@@ -67,7 +67,7 @@
       <item/>
       <item/>
     </list>
-    <group id="n14_hsc6" name="group_down" xy="259,324" size="1054,510" advanced="true" collapsed="true">
+    <group id="n14_hsc6" name="group_down" xy="202,317" size="1062,579" advanced="true">
       <relation target="" sidePair="center-center,bottom-bottom"/>
     </group>
     <graph id="n17_hsc6" name="graph_bg" xy="108,166" size="262,371" group="n22_hsc6" type="rect" fillColor="#ff666666"/>

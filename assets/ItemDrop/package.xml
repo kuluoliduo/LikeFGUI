@@ -6,6 +6,7 @@
     <component id="hsc63j" name="DamageNum.xml" path="/" exported="true"/>
     <component id="hsc63k" name="BloodBar.xml" path="/" exported="true"/>
     <component id="hsc63m" name="Bar_Blood.xml" path="/" exported="true"/>
+    <component id="hsc63n" name="Comp_txt.xml" path="/" exported="true"/>
   </resources>
   <publish name="ItemDrop" path="E:\MyUnityProjects\Projects565f1\DiabloLike\Assets\Resources\FairyGUI\ItemDrop" genCode="true"/>
 </packageDescription>

@@ -8,6 +8,8 @@
     <image id="hsc65" name="border_hero_pinzhi_bai.png" path="/Image/" exported="true"/>
     <component id="hsc67" name="Btn_Main.xml" path="/" exported="true"/>
     <component id="hsc68" name="Btn_List.xml" path="/" exported="true"/>
+    <component id="hsc69" name="Bar_Blood_V.xml" path="/"/>
+    <component id="hsc6a" name="Bar_Blue_V.xml" path="/"/>
   </resources>
   <publish name="Main" path="E:\MyUnityProjects\Projects565f1\DiabloLike\Assets\Resources\FairyGUI\Main" genCode="true"/>
 </packageDescription>
