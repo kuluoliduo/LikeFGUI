@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="wpl85um7">
+  <resources>
+    <image id="ei6y0" name="transparent.psd" path="/Items/" exported="true"/>
+    <image id="ei6y1" name="shotgunIcon.psd" path="/Items/" exported="true"/>
+    <image id="ei6y2" name="rifleIcon.psd" path="/Items/" exported="true"/>
+    <image id="ei6y3" name="movement.psd" path="/Items/" exported="true"/>
+    <image id="ei6y4" name="meleeSweep.psd" path="/Items/" exported="true"/>
+    <image id="ei6y5" name="medkitOnDelay.psd" path="/Items/" exported="true"/>
+    <image id="ei6y6" name="medkit.psd" path="/Items/" exported="true"/>
+    <image id="ei6y7" name="gun.psd" path="/Items/" exported="true"/>
+    <image id="ei6y8" name="Crowbar.psd" path="/Items/" exported="true"/>
+    <image id="ei6y9" name="baseAttack.psd" path="/Items/" exported="true"/>
+    <image id="ei6ya" name="rayIconNoMana.psd" path="/Icons/" exported="true"/>
+    <image id="ei6yb" name="rayIcon.psd" path="/Icons/" exported="true"/>
+    <image id="ei6yc" name="PH_mana.psd" path="/Icons/" exported="true"/>
+    <image id="ei6yd" name="PH_FireDoT.psd" path="/Icons/" exported="true"/>
+    <image id="ei6ye" name="Joystick.png" path="/Icons/" exported="true"/>
+    <image id="ei6yf" name="IconHolder1.psd" path="/Icons/" exported="true"/>
+    <image id="ei6yg" name="Gray00_SQRl1.psd" path="/Icons/" exported="true"/>
+    <image id="ei6yh" name="Gray00_SQR.psd" path="/Icons/" exported="true"/>
+    <image id="ei6yi" name="arrow.psd" path="/Icons/" exported="true"/>
+  </resources>
+  <publish name="SpriteRes" path="D:\UnityProjects\DiabloLike\Assets\Resources\FairyGUI\SpriteRes" packageCount="2"/>
+</packageDescription>

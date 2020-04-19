@@ -5,7 +5,7 @@
     <image id="n0_hsc6" name="n0" src="suru1" fileName="Image/border_hero_pinzhi_bai.png" pkg="5krhxnal" xy="0,0">
       <relation target="" sidePair="width-width,height-height"/>
     </image>
-    <loader id="n2_hsc6" name="icon" xy="0,0" size="86,86" align="center" vAlign="middle">
+    <loader id="n2_hsc6" name="icon" xy="0,0" size="86,86" align="center" vAlign="middle" fill="scale">
       <relation target="" sidePair="width-width,height-height"/>
     </loader>
   </displayList>
