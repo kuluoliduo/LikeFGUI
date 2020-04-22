@@ -25,5 +25,5 @@
     <component id="surul" name="Btn_Yellow.xml" path="/" exported="true"/>
     <component id="surun" name="Btn_Blue.xml" path="/" exported="true"/>
   </resources>
-  <publish name="Bag" path="E:\MyUnityProjects\Projects565f1\DiabloLike\Assets\Resources\FairyGUI\Bag" genCode="true"/>
+  <publish name="Bag" path="..\DiabloLike\Assets\Resources\FairyGUI\Bag" genCode="true"/>
 </packageDescription>

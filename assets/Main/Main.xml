@@ -31,7 +31,7 @@
     <component id="n11_hsc6" name="btnWeapon" src="hsc67" fileName="Btn_Main.xml" xy="995,605" group="n14_hsc6">
       <Button title="weapon"/>
     </component>
-    <list id="n12_hsc6" name="listSkill" xy="277,317" size="266,268" group="n14_hsc6" layout="flow_vt" defaultItem="ui://3lyppwh6hsc68">
+    <list id="n12_hsc6" name="listSkill" xy="277,317" size="312,268" group="n14_hsc6" layout="flow_vt" overflow="scroll" scroll="horizontal" defaultItem="ui://3lyppwh6hsc68">
       <item/>
       <item/>
       <item/>

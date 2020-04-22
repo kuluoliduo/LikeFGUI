@@ -11,6 +11,7 @@
     <loader id="n2_hsc6" name="icon" xy="0,0" size="86,86" align="center" vAlign="middle" fill="scale">
       <relation target="" sidePair="width-width,height-height"/>
     </loader>
+    <text id="n3_j50p" name="txt_num" xy="18,57" size="61,19" fontSize="18" color="#ffffff" align="right" autoSize="none" strokeColor="#000000" text="999"/>
   </displayList>
   <Button/>
 </component>

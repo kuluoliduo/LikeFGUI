@@ -8,5 +8,5 @@
     <component id="hsc63m" name="Bar_Blood.xml" path="/" exported="true"/>
     <component id="hsc63n" name="Comp_txt.xml" path="/" exported="true"/>
   </resources>
-  <publish name="ItemDrop" path="E:\MyUnityProjects\Projects565f1\DiabloLike\Assets\Resources\FairyGUI\ItemDrop" genCode="true"/>
+  <publish name="ItemDrop" path="..\DiabloLike\Assets\Resources\FairyGUI\ItemDrop" genCode="true"/>
 </packageDescription>
