@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<packageDescription id="wpl85um7" jpegQuality="80" compressPNG="true">
+<packageDescription id="wpl85um7">
   <resources>
     <image id="ei6y0" name="transparent.psd" path="/Items/" exported="true"/>
     <image id="ei6y1" name="shotgunIcon.psd" path="/Items/" exported="true"/>
@@ -20,6 +20,15 @@
     <image id="ei6yg" name="Gray00_SQRl1.psd" path="/Icons/" exported="true"/>
     <image id="ei6yh" name="Gray00_SQR.psd" path="/Icons/" exported="true"/>
     <image id="ei6yi" name="arrow.psd" path="/Icons/" exported="true"/>
+    <image id="9yqbj" name="ShockWaveSprite.psd" path="/Textures/" exported="true"/>
+    <image id="9yqbk" name="ShockWave.psd" path="/Textures/" exported="true"/>
+    <image id="9yqbl" name="ShockWave 1.psd" path="/Textures/" exported="true"/>
+    <image id="9yqbm" name="FireMultiMono.psd" path="/Textures/" exported="true"/>
+    <image id="9yqbn" name="FireMulti.psd" path="/Textures/" exported="true"/>
+    <image id="9yqbo" name="FireExploMono.psd" path="/Textures/" exported="true"/>
+    <image id="9yqbp" name="FireExplo.psd" path="/Textures/" exported="true"/>
+    <image id="9yqbq" name="FireballMono.psd" path="/Textures/" exported="true"/>
+    <image id="9yqbr" name="Fireball.psd" path="/Textures/" exported="true"/>
   </resources>
   <publish name="SpriteRes" path="..\DiabloLike\Assets\Resources\FairyGUI\SpriteRes" packageCount="2"/>
 </packageDescription>
